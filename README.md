@@ -13,12 +13,13 @@
 
 ### 第1週(7/14〜7/20)
 - [x] Progate Python道場コース着手
-- [ ] Git/GitHubの基本操作(add/commit/push)を体で覚える
+- [x] Progate→APG4bPython+公式チュートリアル参照に切替
 - [x] logs/2026-07.md に日々の記録をつける
 - 学習量: 1日30分・週5日目標
 
 ### 第2週(7/21〜7/27)
-- [ ] Progate Python道場+Git分野を一通り終える
+- [ ] APG4bPython 第3章・第4章を進める(第4章で区切り、以降は手を広げない)
+- [ ] ローカルgit操作(clone/add/commit/push)を1回実践
 - [ ] venv、標準ライブラリ(os/sys/json/datetime)に触れる
 - [ ] 簡単なCLIスクリプトを1本自作しpush
 - 学習量: 第1週の達成度に応じて30〜45分
